@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Windows Phone</string>
+    <string name="Configuracion">Configuration</string>
+    <string name="Perfil">Profile</string>
+    <string name="Favoritos">Favorites</string>
+    <string name="Ingresos">Income</string>
+    <string name="Presupuesto">Budget</string>
+    <string name="Egreso">Expenses</string>
+</resources>
